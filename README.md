@@ -1,0 +1,2 @@
+# Library Management System
+A desktop application developed using Java Swing for managing day-to-day library operations. The system allows librarians to add, update, and delete books, manage student/member records, and track issued and returned books. It features a user-friendly GUI, real-time status updates of books, and basic validation to ensure accurate record-keeping.
